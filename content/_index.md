@@ -16,4 +16,4 @@ Las expectativas que tengo son:
 
 - Aprender a utilizar correctamente Git y Github.
 - Aprender a crear y diseñar apps.
-- 
+- Esforzarme mucho por entender y aplicar los conocimientos que adquiera. 
