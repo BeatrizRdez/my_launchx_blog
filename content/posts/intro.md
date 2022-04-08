@@ -8,10 +8,16 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 En este post les comento que valores, prácticas, sentimientos, y emociones más valoro en un desarrollador de software.
 
+
    ☄️ Trabajo en equipo
+   
    ☄️ Esfuerzo
+   
    ☄️ Dedicación
+   
    ☄️ Comunicación
+   
    ☄️ Respeto
+   
    
 Me parecen cualidades súper importantes en un desarrolador, pienso que con todo ello se pueden lograr grandes cosas.
